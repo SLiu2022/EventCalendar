@@ -1,0 +1,283 @@
+2000
+  JULY
+    27 THURSDAY
+      My date of birth | 00:00 - 11:59
+2018
+  MAY
+    28 MONDAY
+      High School Graduation | 15:00 - 18:00
+2020
+  AUGUST
+    24 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  AUGUST
+    25 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  AUGUST
+    26 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  AUGUST
+    27 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  AUGUST
+    31 MONDAY
+      Mom's Birthday | 00:00 - 11:59
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    1 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    2 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    3 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    7 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    8 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    9 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    10 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    14 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    15 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    16 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    17 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    21 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    22 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    23 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    24 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    25 FRIDAY
+      Study group | 13:00 - 16:45
+  SEPTEMBER
+    28 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  SEPTEMBER
+    29 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  SEPTEMBER
+    30 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+      Homework 2 Due | 23:00 - 23:59
+  OCTOBER
+    1 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  OCTOBER
+    2 FRIDAY
+      Study group | 13:00 - 16:45
+  OCTOBER
+    3 SATURDAY
+      Watch LOL Championship | 18:00 - 20:00
+  OCTOBER
+    4 SUNDAY
+      Watch LOL Championship | 18:00 - 20:00
+  OCTOBER
+    5 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  OCTOBER
+    6 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  OCTOBER
+    7 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  OCTOBER
+    8 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  OCTOBER
+    9 FRIDAY
+      Study group | 13:00 - 16:45
+  OCTOBER
+    10 SATURDAY
+      Watch LOL Championship | 18:00 - 20:00
+  OCTOBER
+    11 SUNDAY
+      Watch LOL Championship | 18:00 - 20:00
+  OCTOBER
+    12 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  OCTOBER
+    13 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  OCTOBER
+    14 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  OCTOBER
+    15 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  OCTOBER
+    17 SATURDAY
+      Watch LOL Championship | 18:00 - 20:00
+  OCTOBER
+    18 SUNDAY
+      Watch LOL Championship | 18:00 - 20:00
+  OCTOBER
+    19 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  OCTOBER
+    20 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  OCTOBER
+    21 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  OCTOBER
+    22 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  OCTOBER
+    24 SATURDAY
+      Watch LOL Championship | 18:00 - 20:00
+  OCTOBER
+    25 SUNDAY
+      Watch LOL Championship | 18:00 - 20:00
+  OCTOBER
+    26 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  OCTOBER
+    27 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  OCTOBER
+    28 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  OCTOBER
+    29 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    2 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  NOVEMBER
+    3 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    4 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  NOVEMBER
+    5 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    9 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  NOVEMBER
+    10 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    11 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  NOVEMBER
+    12 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    16 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  NOVEMBER
+    17 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    18 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  NOVEMBER
+    19 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    23 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  NOVEMBER
+    24 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    25 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  NOVEMBER
+    26 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  NOVEMBER
+    30 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  DECEMBER
+    1 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  DECEMBER
+    2 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  DECEMBER
+    3 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  DECEMBER
+    7 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  DECEMBER
+    8 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  DECEMBER
+    9 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  DECEMBER
+    10 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  DECEMBER
+    14 MONDAY
+      CS149 Lecture | 12:00 - 13:15
+  DECEMBER
+    15 TUESDAY
+      CS151 Lecture | 10:30 - 11:45
+  DECEMBER
+    16 WEDNESDAY
+      CS149 Lecture | 12:00 - 13:15
+  DECEMBER
+    17 THURSDAY
+      CS151 Lecture | 10:30 - 11:45
+  DECEMBER
+    24 THURSDAY
+      Christmas party | 19:00 - 23:59
+  DECEMBER
+    25 FRIDAY
+      Winter Break | 00:00 - 23:59
+  DECEMBER
+    26 SATURDAY
+      Winter Break | 00:00 - 23:59
+  DECEMBER
+    27 SUNDAY
+      Winter Break | 00:00 - 23:59
+  DECEMBER
+    28 MONDAY
+      Winter Break | 00:00 - 23:59
+  DECEMBER
+    29 TUESDAY
+      Winter Break | 00:00 - 23:59
+  DECEMBER
+    30 WEDNESDAY
+      Winter Break | 00:00 - 23:59
+  DECEMBER
+    31 THURSDAY
+      Winter Break | 00:00 - 23:59
+2021
+  JANUARY
+    1 FRIDAY
+      Winter Break | 00:00 - 23:59
+  JANUARY
+    15 FRIDAY
+      Event to delete1 | 05:00 - 06:00
+      Event to delete2 | 06:30 - 07:00
+      Event to delete3 | 07:30 - 08:00
+      Event to delete4 | 08:30 - 09:00
+      Event to delete5 | 09:30 - 10:00
